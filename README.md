@@ -8,7 +8,7 @@ This work was contributed by Kanan Orujov, focusing on integrating DP techniques
 📦 Environment Setup
 Install required libraries:
 
-<pre> ```bash pip install torch opacus pandas numpy scikit-learn matplotlib ``` </pre>
+<pre> bash pip install torch opacus pandas numpy scikit-learn matplotlib </pre>
 Ensure you're using Python 3.8+.
 
 ⚙️ Technologies Used
